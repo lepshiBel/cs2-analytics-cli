@@ -1,0 +1,20 @@
+[
+  {
+    "match_id": "m1",
+    "date": "2026-10-20 18:30:00",
+    "map": "de_mirage",
+    "kills": 22,
+    "deaths": 12,
+    "assists": 5,
+    "result": "WIN"
+  },
+  {
+    "match_id": "m2",
+    "date": "2026-10-21 20:00:00",
+    "map": "de_anubis",
+    "kills": 14,
+    "deaths": 16,
+    "assists": 3,
+    "result": "LOSS"
+  }
+]
